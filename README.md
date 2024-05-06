@@ -12,7 +12,6 @@
 7. Sanctrum Api
 8. Chat
 9. Email
-10. 
 
 ## Project Features
 1. Authentication Signup Login
