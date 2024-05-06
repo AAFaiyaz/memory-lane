@@ -2,7 +2,7 @@
 # A Fullstack Social Media Site created with Laravel
 
 ## Laravel topic used
-1.Blade
+1. Blade
 2. Controller
 3. Migration
 3. Middlware
